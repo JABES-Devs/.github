@@ -1,7 +1,7 @@
 
 <div style="display: inline-block; vertical-align:middle;">
 <div align="right">
-<img align="right"  alt="" width="190em" src="https://media.discordapp.net/attachments/1072630091529601106/1073730475719401574/Jabes-Logo-Final-Letras-8.png?width=683&height=683">
+<img align="right"  alt="" width="205em" src="https://media.discordapp.net/attachments/1072630091529601106/1073730475719401574/Jabes-Logo-Final-Letras-8.png?width=683&height=683">
 </div>
 
 <div>
