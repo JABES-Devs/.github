@@ -1,16 +1,16 @@
 
 <div style="display: inline-block; vertical-align:middle;">
 <div align="right">
-<img align="right"  alt="" width="205em" src="https://media.discordapp.net/attachments/1072630091529601106/1073730475719401574/Jabes-Logo-Final-Letras-8.png?width=683&height=683">
+<img align="right"  alt="" width="210em" src="https://media.discordapp.net/attachments/1072630091529601106/1073730475719401574/Jabes-Logo-Final-Letras-8.png?width=683&height=683">
 </div>
 
 <div>
 
 # < JABESCRIPT / >  
 
-<strong>🪐 A JABESCRIPT é o ponto comum da Equipe JABES.</strong>
+<strong>🪐 O JABESCRIPT é o ponto comum da Equipe JABES.</strong>
 
-📆 Estes projetos foram conduzidos durante o curso de Bacharelado em Engenharia de Software na Faculdades da Indústria IEL - São José dos Pinhais, durante o período de 2020 - 2023.
+📆 Aqui estão alguns projetos conduzidos durante o curso de Bacharelado em Engenharia de Software na Faculdades da Indústria IEL - São José dos Pinhais, durante o período de 2020 - 2023.
 
 </div>
 
